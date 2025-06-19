@@ -65,7 +65,7 @@ Retrieves a user by their ID.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/Habimana06/Simple-rest-api>
    cd simple-rest-api
    ```
 
